@@ -1,0 +1,50 @@
+
+.wrapper {
+    width: 600px;
+    margin: 0 auto;
+    border: 2px solid;
+    height: 22em;
+    background: mediumpurple;
+    margin-top: 1em;
+}
+
+img {
+    margin: 1px 15em 0 15em;
+    text-align: justify;
+}
+p.para {
+    text-align: justify;
+    padding: 1em;
+}
+h1 {
+    text-align: center;
+    font-size: 48px;
+    text-decoration: underline  ;
+}
+a {
+   
+    color: azure;
+    text-decoration: none;
+    font-size: 19px;
+    background: radial-gradient(red, transparent);
+    margin: 0.5em;
+    font-weight: 600;
+   
+}
+.header {
+    background: mediumpurple;
+    padding: 1em;
+    text-align: right;
+   
+}
+footer.last {
+    background: mediumpurple;
+    /* padding: 0.1em; */
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+footer.last p {
+    margin-top: 68px;
+    padding: 17px;
+}

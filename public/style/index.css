@@ -1,0 +1,71 @@
+.wrapper {
+    text-align: center;
+    
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 2em;
+    background: mediumpurple;
+	height: 20em;
+    border: 2px solid;
+}
+h1 {
+    text-align: center;
+    font-size: 45px;
+    
+    
+}
+.item input {
+    padding: 0.5em;
+    font-size: 18px;
+}
+select#inputtype {
+    float: right;
+    margin: 1px 48px 0 1px;
+    width: 40%;
+    padding: 0.5em;
+}
+select#resulttype {
+    float: right;
+    margin: 1px 20px 0 0px;
+    width: 40%;
+    padding: 0.5em;
+}
+.logo {
+    margin: 1em;
+    padding: 5em;
+}
+a {
+   
+    color: azure;
+    text-decoration: none;
+    font-size: 19px;
+    background: radial-gradient(red, transparent);
+    margin: 0.5em;
+    font-weight: 600;
+   
+}
+.header {
+    background: mediumpurple;
+    padding: 1em;
+    text-align: right;
+}
+.item {
+    margin-top: 4em;
+    
+}
+
+img {
+    /* float: left; */
+    margin:1em;
+}
+footer.last {
+    background: mediumpurple;
+    /* padding: 0.1em; */
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+footer.last p {
+    margin-top: 68px;
+    padding: 17px;
+}

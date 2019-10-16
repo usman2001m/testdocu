@@ -1,0 +1,50 @@
+.wrapper  {
+    width: 600px;
+    
+    margin: 0 auto;
+    padding: 2em;
+    font-size: 20px;
+    border: 2px solid;
+    margin-top: 1em;
+    background: mediumpurple;
+    color: white;
+    border-color: black;
+    
+}
+h1 {
+    text-align: center;
+    margin: 0px;
+    font-size: 48px;
+    margin: 0.5em;
+    text-decoration: underline  ;
+}
+a {
+   
+    color: azure;
+    text-decoration: none;
+    font-size: 19px;
+    background: radial-gradient(red, transparent);
+    margin: 0.5em;
+    font-weight: 600;
+   
+}
+.header {
+    background: mediumpurple;
+    padding: 1em;
+    text-align: right;
+}
+img {
+    text-align: center;
+    margin: 1px 1em 0 11em;
+}
+footer.last {
+    background: mediumpurple;
+    /* padding: 0.1em; */
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+footer.last p {
+    margin-top: 68px;
+    padding: 17px;
+}
